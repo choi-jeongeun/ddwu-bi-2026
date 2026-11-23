@@ -20,7 +20,7 @@
 | `week10/` | 10주차 실습 파일 (`first.sql`, `eda.sql`) |
 | `week11/` | 11주차 실습 파일 (`customer.sql`, `pitfalls.sql`) |
 | `week12/` | 12주차 실습 파일 (`cards.sql`: 대시보드 카드 세 장을 SQL로. 더 볼 파일: `dashboard.sql`, `app_base.py`) |
-| `week13/` | 13주차 실습 파일 (`decompose.sql`: 매출을 결제 건수와 건당 금액으로 나누기, `factcheck.sql`: 대시보드 문장을 SQL로 확인하기). `내작업/w13_decompose.sql`, `내작업/w13_factcheck.sql`로 복사해서 씁니다 |
+| `week13/` | 13주차 실습 파일 (`decompose.sql`: 매출을 결제 건수와 건당 금액으로 나누기, `segment.sql`: 매출 변화를 상권 구분별로 나누기). `내작업/w13_decompose.sql`, `내작업/w13_segment.sql`로 복사해서 씁니다 |
 | `내작업/` | 여러분이 만든 파일을 두는 곳 |
 
 ## 설치된 도구 (codespace를 만들 때 자동 설치)
